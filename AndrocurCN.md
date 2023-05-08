@@ -212,7 +212,7 @@ Androcur 50 mg是一种口服片剂。请在饭后用足够的水（优选是一
 - 深黑色圆圈 = 2粒Androcur
 - 透明圆圈 = 1粒雌二醇 或者 使用中的 雌二醇+孕酮复合剂
 - Blutung = 月经
-- 1. Zyklustag = 周期第一天
+- 1 Zyklustag = 周期第一天
 - 7 Tage Pause = 停用7天  
 
 ![女性月经周期和用药表](AndrocurCNpic.png)
